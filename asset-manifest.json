@@ -1,10 +1,15 @@
 {
   "files": {
     "main.css": "/portfoliosite/static/css/main.3b92f694.css",
-    "main.js": "/portfoliosite/static/js/main.b824be3e.js",
+    "main.js": "/portfoliosite/static/js/main.ede67220.js",
+    "static/media/about-me-image.jpg": "/portfoliosite/static/media/about-me-image.4bb41fc8fad8a22812d7.jpg",
+    "static/media/blog-image.jpg": "/portfoliosite/static/media/blog-image.aa15da70144b4c4fc55c.jpg",
+    "static/media/projects-image.jpg": "/portfoliosite/static/media/projects-image.4bb85322ae4cb7b77f54.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfoliosite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/portfoliosite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfoliosite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/tutorials-image.jpg": "/portfoliosite/static/media/tutorials-image.1b79687dc00b3b3c008f.jpg",
+    "static/media/my-profile.png": "/portfoliosite/static/media/my-profile.b3e85f0852640e4db754.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfoliosite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfoliosite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/lobster-latin-400.woff": "/portfoliosite/static/media/lobster-latin-400.e4473cd7170c39b44c99.woff",
@@ -31,10 +36,10 @@
     "static/media/open-sans-latin-400italic.woff2": "/portfoliosite/static/media/open-sans-latin-400italic.bb915319f59c02c348a6.woff2",
     "index.html": "/portfoliosite/index.html",
     "main.3b92f694.css.map": "/portfoliosite/static/css/main.3b92f694.css.map",
-    "main.b824be3e.js.map": "/portfoliosite/static/js/main.b824be3e.js.map"
+    "main.ede67220.js.map": "/portfoliosite/static/js/main.ede67220.js.map"
   },
   "entrypoints": [
     "static/css/main.3b92f694.css",
-    "static/js/main.b824be3e.js"
+    "static/js/main.ede67220.js"
   ]
 }
